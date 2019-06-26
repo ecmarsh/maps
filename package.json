@@ -1,0 +1,19 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "playing around with google maps api",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "faker": "^4.1.0"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "@types/faker": "^4.1.5",
+    "@types/googlemaps": "^3.36.5",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.2"
+  }
+}
